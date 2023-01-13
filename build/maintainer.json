@@ -572,6 +572,9 @@
     "/blockbeats/:channel?": [
         "Fatpandac"
     ],
+    "/bloomberg/authors/:id/:slug": [
+        "josh"
+    ],
     "/bloomberg/:site?": [
         "bigfei"
     ],
@@ -4547,6 +4550,9 @@
     ],
     "/xueqiu/user_stock/:id": [
         "hillerliao"
+    ],
+    "/xunhupay/blog": [
+        "Joey"
     ],
     "/xwlb/": [
         "xfangbao"
